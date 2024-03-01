@@ -40,7 +40,7 @@ Halo! Terima kasih telah mengunjungi profil GitHub saya! Saya seorang mahasiswa 
       <a style="margin-left: 10px;" target="_blank" href="harioobmo@gmail.com">
 			  <img src="https://img.icons8.com/doodle/40/000000/gmail-new--v2.png"></a>
       <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1037650459239927808">
-			  <img src="https://img.icons8.com/doodle/40/000000/discord-new--v2.png"></a>
+			  <img src="https://img.icons8.com/doodle/40/000000/discord--v1.png"></a>
  </div>
 
 </p>
