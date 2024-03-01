@@ -7,11 +7,11 @@
 </a>
 </p>
 
-## Tentang Saya
+## About Me
 
 Halo! Terima kasih telah mengunjungi profil GitHub saya! Saya seorang mahasiswa Teknik Informatika dari Politeknik Negeri Bandung. Dengan dedikasi yang tinggi, saya akan terus belajar dan mengembangkan keterampilan saya supaya dapat menciptakan solusi yang efektif dan efisien. Semoga saya dapat belajar banyak hal dari para pengajar dan para ahli.
 
-## Kepakaran
+## Programming Languages
 
 - **Web Developer** Sedang mempelajari PHP
 - **Desktop Programming** Sedang mempelajari Java dan C
@@ -22,15 +22,15 @@ Halo! Terima kasih telah mengunjungi profil GitHub saya! Saya seorang mahasiswa 
   </a>
 </p>
 
-## Pendidikan
+## Education
 
 - Gelar Sarjana Terapan di bidang Teknik Informatika dari Politeknik Negeri Bandung.
 
-## Proyek
+## Project
 
 - Membuat game tictactoe
 
-## Menghubungi Saya
+## Contact Me
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
