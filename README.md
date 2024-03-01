@@ -30,7 +30,11 @@ Halo! Terima kasih telah mengunjungi profil GitHub saya! Saya seorang mahasiswa 
 
 - Membuat game tictactoe
 
-## Contact Me
+## My Contributions
+
+<p align = "center">
+	<img src = "https://raw.githubusercontent.com/rioBMO/rioBMO/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
+</p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
