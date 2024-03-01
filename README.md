@@ -38,10 +38,10 @@ Halo! Terima kasih telah mengunjungi profil GitHub saya! Saya seorang mahasiswa 
       <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ryobmo_/">
 			  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       <a style="margin-left: 10px;" target="_blank" href="harioobmo@gmail.com">
-			  <img src="![image](https://github.com/rioBMO/rioBMO/assets/149885627/357844d1-fbb0-453b-8fb1-fd0670f42795)
+			  <img src="https://github.com/rioBMO/rioBMO/assets/149885627/357844d1-fbb0-453b-8fb1-fd0670f42795
 "></a>
       <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1037650459239927808">
-			  <img src="![image](https://github.com/rioBMO/rioBMO/assets/149885627/d61b693a-54c6-422b-9a5f-97f78cf56825)
+			  <img src="https://github.com/rioBMO/rioBMO/assets/149885627/d61b693a-54c6-422b-9a5f-97f78cf56825
 "></a>
  </div>
 
