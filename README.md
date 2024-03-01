@@ -16,6 +16,12 @@ Halo! Terima kasih telah mengunjungi profil GitHub saya! Saya seorang mahasiswa 
 - **Web Developer** Sedang mempelajari PHP
 - **Desktop Programming** Sedang mempelajari Java dan C
 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,c,cpp,java&perline=3" />
+  </a>
+</p>
+
 ## Pendidikan
 
 - Gelar Sarjana Terapan di bidang Teknik Informatika dari Politeknik Negeri Bandung.
