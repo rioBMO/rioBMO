@@ -19,20 +19,12 @@ Halo! Terima kasih telah mengunjungi profil GitHub saya! Saya seorang mahasiswa 
 ## Pendidikan
 
 - Gelar Sarjana Terapan di bidang Teknik Informatika dari Politeknik Negeri Bandung.
-- SMK Muhammadiyah 07 Gondanglegi
 
 ## Proyek
 
 - Membuat game tictactoe
 
 ## Menghubungi Saya
-
-Jika tertarik untuk berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya melalui:
-
-- Email: [harioobmo@gamail.com](mailto:harioobmo@gamail.com)
-- LinkedIn: [www.linkedin.com/in/satryoharyo](www.linkedin.com/in/satryoharyo)
-
-Terima kasih telah mengunjungi profil saya. Saya berharap dapat berkolaborasi dengan Anda untuk menciptakan solusi yang bermanfaat melalui teknologi!
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -45,10 +37,12 @@ Terima kasih telah mengunjungi profil saya. Saya berharap dapat berkolaborasi de
 		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
       <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ryobmo_/">
 			  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-      <a style="margin-left: 10px;" target="_blank" href="harioobmo@gamail.com">
-			  <img src="https://icons8.com/icon/EgRndDDLh8kS/gmail"></a>
+      <a style="margin-left: 10px;" target="_blank" href="harioobmo@gmail.com">
+			  <img src="![image](https://github.com/rioBMO/rioBMO/assets/149885627/357844d1-fbb0-453b-8fb1-fd0670f42795)
+"></a>
       <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1037650459239927808">
-			  <img src="https://icons8.com/icon/rEpcydhqrp6v/discord-bubble"></a>
+			  <img src="![image](https://github.com/rioBMO/rioBMO/assets/149885627/d61b693a-54c6-422b-9a5f-97f78cf56825)
+"></a>
  </div>
 
 </p>
