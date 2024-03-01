@@ -45,6 +45,10 @@ Terima kasih telah mengunjungi profil saya. Saya berharap dapat berkolaborasi de
 		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
       <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ryobmo_/">
 			  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      <a style="margin-left: 10px;" target="_blank" href="harioobmo@gamail.com">
+			  <img src="https://icons8.com/icon/EgRndDDLh8kS/gmail"></a>
+      <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1037650459239927808">
+			  <img src="https://icons8.com/icon/rEpcydhqrp6v/discord-bubble"></a>
  </div>
 
 </p>
