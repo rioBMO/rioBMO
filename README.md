@@ -24,7 +24,7 @@ Halo! Terima kasih telah mengunjungi profil GitHub saya! Saya seorang mahasiswa 
 
 ## Education
 
-- Gelar Sarjana Terapan di bidang Teknik Informatika dari Politeknik Negeri Bandung.
+- Sedang menempuh gelar Sarjana Terapan di bidang Teknik Informatika di Politeknik Negeri Bandung.
 
 ## Project
 
